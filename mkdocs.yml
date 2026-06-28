@@ -1,0 +1,6 @@
+site_name: مختبرات الذكاء الصنعي — Prolog
+theme:
+  name: material
+  language: ar
+  features:
+    - content.code.copy # زر نسخ الأكواد التلقائي للطلاب
